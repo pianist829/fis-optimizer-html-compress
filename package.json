@@ -2,7 +2,7 @@
     "name": "fis-optimizer-html-compress",
     "description": "A optimizer for fis to compress html.",
     "homepage": "http://fis.baidu.com/",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": {
         "name": "FIS Team",
         "email": "fis@baidu.com"
